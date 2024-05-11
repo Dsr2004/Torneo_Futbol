@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "663d9f2d23f9a4f54e76f5da"
+  },
+  "nombre_equipo": "FC Barcelona",
+  "fecha_fundación": "1899-11-29",
+  "lista_jugadores": [
+    "Juan Pérez",
+    "Lionel Messi"
+  ],
+  "entrenador": "Xavi Hernández"
+},
+{
+  "_id": {
+    "$oid": "663d9f2d23f9a4f54e76f5db"
+  },
+  "nombre_equipo": "Real Madrid",
+  "fecha_fundación": "1902-03-06",
+  "lista_jugadores": [
+    "Carlos López",
+    "Karim Benzema"
+  ],
+  "entrenador": "Carlo Ancelotti"
+},
+{
+  "_id": {
+    "$oid": "663d9f2d23f9a4f54e76f5dc"
+  },
+  "nombre_equipo": "Juventus",
+  "fecha_fundación": "1897-11-01",
+  "lista_jugadores": [
+    "Luca Rossi",
+    "Cristiano Ronaldo"
+  ],
+  "entrenador": "Massimiliano Allegri"
+},
+{
+  "_id": {
+    "$oid": "663d9f2d23f9a4f54e76f5dd"
+  },
+  "nombre_equipo": "Manchester United",
+  "fecha_fundación": "1878-01-01",
+  "lista_jugadores": [
+    "Tom Smith",
+    "Bruno Fernandes"
+  ],
+  "entrenador": "Erik ten Hag"
+},
+{
+  "_id": {
+    "$oid": "663d9f2d23f9a4f54e76f5de"
+  },
+  "nombre_equipo": "Bayern Munich",
+  "fecha_fundación": "1900-02-27",
+  "lista_jugadores": [
+    "Max Müller",
+    "Thomas Müller"
+  ],
+  "entrenador": "Julian Nagelsmann"
+}]

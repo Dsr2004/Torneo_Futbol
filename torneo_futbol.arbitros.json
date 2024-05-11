@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "663d9f3c23f9a4f54e76f5e4"
+  },
+  "nombre_completo": "Mark Clattenburg",
+  "fecha_nacimiento": "1975-03-13",
+  "nacionalidad": "Inglaterra",
+  "lista_partidos_arbitrados": [
+    "FC Barcelona vs Real Madrid",
+    "Juventus vs Manchester United"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9f3c23f9a4f54e76f5e5"
+  },
+  "nombre_completo": "Pierluigi Collina",
+  "fecha_nacimiento": "1960-02-13",
+  "nacionalidad": "Italia",
+  "lista_partidos_arbitrados": [
+    "Real Madrid vs Juventus"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9f3c23f9a4f54e76f5e6"
+  },
+  "nombre_completo": "Howard Webb",
+  "fecha_nacimiento": "1971-07-14",
+  "nacionalidad": "Inglaterra",
+  "lista_partidos_arbitrados": [
+    "Bayern Munich vs FC Barcelona"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9f3c23f9a4f54e76f5e7"
+  },
+  "nombre_completo": "Nestor Pitana",
+  "fecha_nacimiento": "1975-06-17",
+  "nacionalidad": "Argentina",
+  "lista_partidos_arbitrados": [
+    "Manchester United vs Real Madrid"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9f3c23f9a4f54e76f5e8"
+  },
+  "nombre_completo": "Felix Brych",
+  "fecha_nacimiento": "1975-08-03",
+  "nacionalidad": "Alemania",
+  "lista_partidos_arbitrados": [
+    "Juventus vs Bayern Munich"
+  ]
+}]

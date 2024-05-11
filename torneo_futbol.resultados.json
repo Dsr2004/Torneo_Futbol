@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "663da0a023f9a4f54e76f5f8"
+  },
+  "partido_id": {
+    "$oid": "663da0a023f9a4f54e76f5f3"
+  },
+  "resultado_final": "2-1",
+  "goles": [
+    {
+      "minuto": 15,
+      "jugador": "Luis Suarez",
+      "equipo": "FC Barcelona"
+    },
+    {
+      "minuto": 47,
+      "jugador": "Karim Benzema",
+      "equipo": "Real Madrid"
+    },
+    {
+      "minuto": 78,
+      "jugador": "Lionel Messi",
+      "equipo": "FC Barcelona"
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 32,
+      "tipo": "Amarilla",
+      "jugador": "Sergio Ramos"
+    },
+    {
+      "minuto": 60,
+      "tipo": "Roja",
+      "jugador": "Gerard Pique"
+    }
+  ],
+  "cambios": [
+    {
+      "minuto": 65,
+      "entra": "Antoine Griezmann",
+      "sale": "Ansu Fati"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663da0a023f9a4f54e76f5f9"
+  },
+  "partido_id": {
+    "$oid": "663da0a023f9a4f54e76f5f4"
+  },
+  "resultado_final": "0-0",
+  "goles": [],
+  "tarjetas": [
+    {
+      "minuto": 15,
+      "tipo": "Amarilla",
+      "jugador": "Harry Maguire"
+    },
+    {
+      "minuto": 35,
+      "tipo": "Amarilla",
+      "jugador": "Paul Pogba"
+    }
+  ],
+  "cambios": [
+    {
+      "minuto": 46,
+      "entra": "Mason Greenwood",
+      "sale": "Marcus Rashford"
+    },
+    {
+      "minuto": 70,
+      "entra": "Donny van de Beek",
+      "sale": "Bruno Fernandes"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663da0a023f9a4f54e76f5fa"
+  },
+  "partido_id": {
+    "$oid": "663da0a023f9a4f54e76f5f5"
+  },
+  "resultado_final": "3-3",
+  "goles": [
+    {
+      "minuto": 22,
+      "jugador": "Mohamed Salah",
+      "equipo": "Liverpool"
+    },
+    {
+      "minuto": 44,
+      "jugador": "Sadio Mane",
+      "equipo": "Liverpool"
+    },
+    {
+      "minuto": 53,
+      "jugador": "Roberto Firmino",
+      "equipo": "Liverpool"
+    },
+    {
+      "minuto": 61,
+      "jugador": "Sergio Aguero",
+      "equipo": "Manchester City"
+    },
+    {
+      "minuto": 75,
+      "jugador": "Kevin De Bruyne",
+      "equipo": "Manchester City"
+    },
+    {
+      "minuto": 90,
+      "jugador": "Raheem Sterling",
+      "equipo": "Manchester City"
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "tipo": "Amarilla",
+      "jugador": "Fabinho"
+    },
+    {
+      "minuto": 78,
+      "tipo": "Roja",
+      "jugador": "Kyle Walker"
+    }
+  ],
+  "cambios": [
+    {
+      "minuto": 55,
+      "entra": "Gabriel Jesus",
+      "sale": "Sergio Aguero"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663da0a023f9a4f54e76f5fb"
+  },
+  "partido_id": {
+    "$oid": "663da0a023f9a4f54e76f5f6"
+  },
+  "resultado_final": "1-4",
+  "goles": [
+    {
+      "minuto": 33,
+      "jugador": "Cristiano Ronaldo",
+      "equipo": "Juventus"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Paulo Dybala",
+      "equipo": "Juventus"
+    },
+    {
+      "minuto": 65,
+      "jugador": "Alvaro Morata",
+      "equipo": "Juventus"
+    },
+    {
+      "minuto": 71,
+      "jugador": "Federico Chiesa",
+      "equipo": "Juventus"
+    },
+    {
+      "minuto": 88,
+      "jugador": "Zlatan Ibrahimovic",
+      "equipo": "AC Milan"
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "tipo": "Amarilla",
+      "jugador": "Theo Hernandez"
+    }
+  ],
+  "cambios": [
+    {
+      "minuto": 60,
+      "entra": "Dejan Kulusevski",
+      "sale": "Juan Cuadrado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663da0a023f9a4f54e76f5fc"
+  },
+  "partido_id": {
+    "$oid": "663da0a023f9a4f54e76f5f7"
+  },
+  "resultado_final": "2-2",
+  "goles": [
+    {
+      "minuto": 18,
+      "jugador": "Luis Muriel",
+      "equipo": "Atalanta"
+    },
+    {
+      "minuto": 42,
+      "jugador": "Robin Gosens",
+      "equipo": "Atalanta"
+    },
+    {
+      "minuto": 58,
+      "jugador": "Romelu Lukaku",
+      "equipo": "Inter Milan"
+    },
+    {
+      "minuto": 76,
+      "jugador": "Lautaro Martinez",
+      "equipo": "Inter Milan"
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 50,
+      "tipo": "Amarilla",
+      "jugador": "Stefan de Vrij"
+    },
+    {
+      "minuto": 70,
+      "tipo": "Amarilla",
+      "jugador": "Duvan Zapata"
+    }
+  ],
+  "cambios": [
+    {
+      "minuto": 65,
+      "entra": "Achraf Hakimi",
+      "sale": "Alexis Sanchez"
+    }
+  ]
+}]

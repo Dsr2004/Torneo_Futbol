@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663d9f3423f9a4f54e76f5df"
+  },
+  "nombre_completo": "Xavi Hernández",
+  "fecha_nacimiento": "1980-01-25",
+  "nacionalidad": "España"
+},
+{
+  "_id": {
+    "$oid": "663d9f3423f9a4f54e76f5e0"
+  },
+  "nombre_completo": "Carlo Ancelotti",
+  "fecha_nacimiento": "1959-06-10",
+  "nacionalidad": "Italia"
+},
+{
+  "_id": {
+    "$oid": "663d9f3423f9a4f54e76f5e1"
+  },
+  "nombre_completo": "Massimiliano Allegri",
+  "fecha_nacimiento": "1967-08-11",
+  "nacionalidad": "Italia"
+},
+{
+  "_id": {
+    "$oid": "663d9f3423f9a4f54e76f5e2"
+  },
+  "nombre_completo": "Erik ten Hag",
+  "fecha_nacimiento": "1970-02-02",
+  "nacionalidad": "Países Bajos"
+},
+{
+  "_id": {
+    "$oid": "663d9f3423f9a4f54e76f5e3"
+  },
+  "nombre_completo": "Julian Nagelsmann",
+  "fecha_nacimiento": "1987-07-23",
+  "nacionalidad": "Alemania"
+}]

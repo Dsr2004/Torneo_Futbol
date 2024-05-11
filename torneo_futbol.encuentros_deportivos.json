@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "663d9f4123f9a4f54e76f5e9"
+  },
+  "fecha_hora": "2024-05-20 20:00",
+  "equipos_participantes": [
+    "FC Barcelona",
+    "Real Madrid"
+  ],
+  "estadio": "Camp Nou",
+  "arbitros": [
+    "Mark Clattenburg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9f4123f9a4f54e76f5ea"
+  },
+  "fecha_hora": "2024-05-21 20:00",
+  "equipos_participantes": [
+    "Juventus",
+    "Manchester United"
+  ],
+  "estadio": "Juventus Stadium",
+  "arbitros": [
+    "Pierluigi Collina"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9f4123f9a4f54e76f5eb"
+  },
+  "fecha_hora": "2024-05-22 20:00",
+  "equipos_participantes": [
+    "Bayern Munich",
+    "FC Barcelona"
+  ],
+  "estadio": "Allianz Arena",
+  "arbitros": [
+    "Howard Webb"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9f4123f9a4f54e76f5ec"
+  },
+  "fecha_hora": "2024-05-23 20:00",
+  "equipos_participantes": [
+    "Manchester United",
+    "Real Madrid"
+  ],
+  "estadio": "Old Trafford",
+  "arbitros": [
+    "Nestor Pitana"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9f4123f9a4f54e76f5ed"
+  },
+  "fecha_hora": "2024-05-24 20:00",
+  "equipos_participantes": [
+    "Juventus",
+    "Bayern Munich"
+  ],
+  "estadio": "Juventus Stadium",
+  "arbitros": [
+    "Felix Brych"
+  ]
+}]

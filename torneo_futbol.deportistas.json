@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663d9f2523f9a4f54e76f5d5"
+  },
+  "nombre_completo": "Juan Pérez",
+  "fecha_nacimiento": "1992-04-15",
+  "nacionalidad": "España",
+  "posición": "Delantero",
+  "equipo_actual": "FC Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663d9f2523f9a4f54e76f5d6"
+  },
+  "nombre_completo": "Carlos López",
+  "fecha_nacimiento": "1988-08-20",
+  "nacionalidad": "México",
+  "posición": "Mediocampista",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663d9f2523f9a4f54e76f5d7"
+  },
+  "nombre_completo": "Luca Rossi",
+  "fecha_nacimiento": "1995-03-30",
+  "nacionalidad": "Italia",
+  "posición": "Defensor",
+  "equipo_actual": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663d9f2523f9a4f54e76f5d8"
+  },
+  "nombre_completo": "Tom Smith",
+  "fecha_nacimiento": "1990-11-01",
+  "nacionalidad": "Inglaterra",
+  "posición": "Portero",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663d9f2523f9a4f54e76f5d9"
+  },
+  "nombre_completo": "Max Müller",
+  "fecha_nacimiento": "1993-07-22",
+  "nacionalidad": "Alemania",
+  "posición": "Delantero",
+  "equipo_actual": "Bayern Munich"
+}]
